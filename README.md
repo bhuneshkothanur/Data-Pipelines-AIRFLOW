@@ -19,6 +19,3 @@ data_quality.py contains DataQualityOperator, which runs a data quality check by
 Create AWS and Redshift connections and tun on the DAG.
 
 
-**REFERENCES**
-
-> Udacity Knowledge hub.
